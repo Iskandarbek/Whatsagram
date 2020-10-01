@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "634922699755",
+    "firebase_url": "https://whatsagram-2dc40.firebaseio.com",
+    "project_id": "whatsagram-2dc40",
+    "storage_bucket": "whatsagram-2dc40.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:634922699755:android:07861ab78b6f2d1d9967ae",
+        "android_client_info": {
+          "package_name": "com.example.whatsagram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "634922699755-v1blvbg8kjritin249bv12hi31g77sig.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIk0qBTpyRYFrl3Ouby47YlEchzWoLd3k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "634922699755-v1blvbg8kjritin249bv12hi31g77sig.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
